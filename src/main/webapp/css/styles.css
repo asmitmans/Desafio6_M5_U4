@@ -1,0 +1,13 @@
+@charset "UTF-8";
+
+body, html {
+    overflow: hidden;
+}
+
+.vertical-center {
+	height: calc(100vh - 50px);
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	flex-direction: column;
+}
