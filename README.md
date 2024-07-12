@@ -1,6 +1,6 @@
 # Desafío - El patrón de diseño MVC y despliegue de una aplicación
 
-### Tabla usada:
+### Tabla usada
 ```sql
 -- Crear la tabla 'usuarios'
 CREATE TABLE usuarios (
@@ -20,3 +20,7 @@ INSERT INTO usuarios (correo, nick, nombre, password, peso, created_at, updated_
 ('user2@mail.com', 'user2', 'User Two', 'pass456', 65.00, '2024-07-10 17:47:23', '2024-07-10 17:47:23'),
 ('user3@mail.com', 'user3', 'User Three', 'pass789', 80.00, '2024-07-10 17:47:23', '2024-07-10 17:47:23');
 ```
+
+#### Configuración conexión
+https://github.com/asmitmans/Desafio6_M5_U4/blob/main/src/main/java/cl/fullstackjava/model/conexion/Conexion.java
+
