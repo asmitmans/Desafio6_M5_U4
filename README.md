@@ -1,6 +1,6 @@
 # Desafío - El patrón de diseño MVC y despliegue de una aplicación
 
-### Tabla usada
+#### Tabla usada
 ```sql
 -- Crear la tabla 'usuarios'
 CREATE TABLE usuarios (
